@@ -1,0 +1,64 @@
+.read-container {
+    font-family: sans-serif;
+    position: relative;
+    margin: 50rem;
+    padding: 50px;
+  }
+  
+  .read-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    padding: 1rem;
+    
+  }
+  
+  #read-head {
+    text-align: center;
+    margin: 0;
+  }
+  
+  .read-profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .read-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .read-info h2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .social {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .social a {
+    color: #333;
+    text-decoration: none;
+    margin: 0.5rem;
+  }
+  
+  .social a:hover {
+    color: #007bff;
+  }
+  
+  .blog-content {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  article p {
+    margin-bottom: 1rem;
+  }
+  
+  
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css");
+  

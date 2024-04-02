@@ -1,0 +1,20 @@
+#box {
+    font-style: bold;
+    background-image: url(http://newbreak.church/wp-content/uploads/2021/08/qofjunxy9ly.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    margin: 2% 1px;
+    height: 150px;
+    background-attachment: fixed;
+  }
+  
+  #box h2 {
+    margin: 0;
+    font-size: 50px; /* Adjust the font size as needed */ 
+
+  }
